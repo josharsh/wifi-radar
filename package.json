@@ -1,6 +1,6 @@
 {
   "name": "wifi-radar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WiFi network scanner and topology mapping tool for macOS",
   "main": "dist/index.js",
   "type": "module",

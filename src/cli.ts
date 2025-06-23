@@ -24,13 +24,13 @@ function showBanner() {
     font: 'Small',
     horizontalLayout: 'fitted'
   })));
-  console.log(chalk.gray('AI-Powered Network Intelligence Tool'));
+  console.log(chalk.gray('Network Scanner and Topology Mapper'));
   console.log('');
 }
 
 program
   .name('wifi-radar')
-  .description('AI-powered WiFi network intelligence and topology mapping')
+  .description('WiFi network scanner and topology mapping tool for macOS')
   .version('1.0.0');
 
 program
