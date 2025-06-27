@@ -1,7 +1,7 @@
 {
   "name": "wifi-radar",
-  "version": "1.0.1",
-  "description": "WiFi network scanner and topology mapping tool for macOS",
+  "version": "1.0.4",
+  "description": "Comprehensive WiFi network analysis & performance testing tool for macOS - speed tests, latency analysis, health diagnostics, QoS analysis & more",
   "main": "dist/index.js",
   "type": "module",
   "bin": {
@@ -22,7 +22,18 @@
     "topology",
     "security",
     "cli",
-    "macos"
+    "macos",
+    "speed-test",
+    "latency",
+    "ping",
+    "jitter",
+    "diagnostics",
+    "qos",
+    "health",
+    "performance",
+    "bandwidth",
+    "networking",
+    "analysis"
   ],
   "author": "josharsh <harsh.joshi.pth@gmail.com>",
   "license": "MIT",
